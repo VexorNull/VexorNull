@@ -22,7 +22,7 @@ The repository is structured as a multi-page web application:
 - **Social Media Integration:** Configured Open Graph (OG) and Twitter meta tags matching exact creator branding for rich link previews.
 
 ## 🚀 Live Preview
-Explore the live platform: https://vexornull.github.io/VexorNull-/
+Explore the live platform: https://vexornull.github.io/VexorNull/
 
 ---
 *Developed & Designed by Tanveer Hussain @VexorNull*
