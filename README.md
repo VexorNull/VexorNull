@@ -1,28 +1,62 @@
-# Tanveer Hussain | Executive Portfolio
+# 👋 Hi, I'm Tanveer Hussain — `@VexorNull`
 
-A professional, high-end, multi-page executive portfolio website designed with a dark-luxury glassmorphism aesthetic (Black & Gold) and enterprise-grade performance.
+> **Web Designer & Digital Architect** crafting digital experiences that feel as good as they function.
+>
+> *“Deeper than the algorithm.”*
 
-## 👑 Creator Identity
-- **Name:** Tanveer Hussain @VexorNull
-- **Role:** Web Designer & Digital Architect
-- **Tagline:** "Deeper than the algorithm"
-- **Official Digital Hub:** https://pk-digitalhub.blogspot.com
+[![GitHub](https://img.shields.io/badge/GitHub-VexorNull-181717?style=for-the-badge&logo=github)](https://github.com/VexorNull)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20digital%20hub-D4AF37?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pk-digitalhub.blogspot.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=VexorNull&style=for-the-badge&color=D4AF37)](https://github.com/VexorNull)
 
-## 📁 Project Structure
-The repository is structured as a multi-page web application:
-- `index.html` - Landing page featuring core profile identity and hero navigation.
-- `about.html` - Executive background, core competencies, and professional focus.
-- `services.html` - Detailed technical service offerings and architectural capabilities.
-- `portfolio.html` - Showcase of custom web designs, publishing frameworks, and interfaces.
-- `contact.html` - Direct private communication channels and secure social links.
+## ✦ About Me
 
-## ✨ Key Features
-- **Dark Luxury Aesthetic:** Sleek deep-black background (`#030305`) accented with rich metallic gold (`#d4af37`) and subtle glassmorphism cards.
-- **Fully Responsive Navigation:** Synchronized global header menu across all pages with mobile optimization.
-- **Social Media Integration:** Configured Open Graph (OG) and Twitter meta tags matching exact creator branding for rich link previews.
+I design and build polished web experiences at the intersection of **visual identity, thoughtful interaction, and reliable architecture**. My work is driven by curiosity, craftsmanship, and the belief that a strong digital presence should be both memorable and meaningful.
 
-## 🚀 Live Preview
-Explore the live platform: https://vexornull.github.io/VexorNull/
+- 🎨 Focused on web design, digital architecture, and premium visual systems
+- 🧭 Exploring better ways to turn ideas into clear, engaging interfaces
+- ⚡ Interested in performance, responsive design, and purposeful user experiences
+- 🖤 Inspired by dark-luxury aesthetics, clean structure, and refined details
+
+## 🛠️ What I Work With
+
+| Area | Focus |
+| --- | --- |
+| **Design** | Visual direction, responsive layouts, interface systems, brand identity |
+| **Frontend** | Semantic HTML, modern CSS, responsive and accessible experiences |
+| **Architecture** | Multi-page websites, content structures, maintainable project foundations |
+| **Publishing** | Digital portfolios, personal brands, editorial and web publishing platforms |
+
+## 🚀 Featured Work
+
+### [Executive Portfolio](https://github.com/VexorNull/VexorNull)
+A high-end, multi-page executive portfolio built around a dark-luxury glassmorphism aesthetic, responsive navigation, and a cohesive personal brand system.
+
+**Highlights:**
+- Black-and-gold visual language with glassmorphism details
+- Responsive multi-page experience
+- Portfolio, services, about, and contact sections
+- Social sharing and rich link-preview metadata
+
+🔗 **[View the live experience →](https://vexornull.github.io/VexorNull/)**
+
+## 📌 Currently
+
+- Refining my digital portfolio and personal brand
+- Building elegant, performance-minded web experiences
+- Exploring the space where design meets technology
+- Turning ambitious concepts into focused, usable interfaces
+
+## 🤝 Let's Connect
+
+I'm always interested in thoughtful collaborations, creative web projects, and conversations about design, technology, and the future of the web.
+
+- 🌐 **Digital hub:** [pk-digitalhub.blogspot.com](https://pk-digitalhub.blogspot.com)
+- 💼 **GitHub:** [github.com/VexorNull](https://github.com/VexorNull)
 
 ---
-*Developed & Designed by Tanveer Hussain @VexorNull*
+
+<div align="center">
+
+**Design with intention. Build with precision.**
+
+</div>
